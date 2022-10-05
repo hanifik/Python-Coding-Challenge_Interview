@@ -1,1 +1,1 @@
-# coding_challenge_dartggame
+This repo contains a PDF and a Jupyter notebook. While the PDF introduces a coding challenge in the form of calculation of the score given a dart shot, the script contains my proposed solution to the problem using Python.
